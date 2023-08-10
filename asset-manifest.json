@@ -1,13 +1,30 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/task-pro-frontend/static/css/main.66bec7a7.css",
+    "main.js": "/task-pro-frontend/static/js/main.98899a28.js",
+    "static/js/544.50f911eb.chunk.js": "/task-pro-frontend/static/js/544.50f911eb.chunk.js",
+    "static/js/786.c8b6ea2b.chunk.js": "/task-pro-frontend/static/js/786.c8b6ea2b.chunk.js",
+    "static/js/630.57b4b419.chunk.js": "/task-pro-frontend/static/js/630.57b4b419.chunk.js",
+    "static/js/95.29851ab0.chunk.js": "/task-pro-frontend/static/js/95.29851ab0.chunk.js",
+    "static/media/Poppins-Regular.woff": "/task-pro-frontend/static/media/Poppins-Regular.eb7f33fefaf7106ac3a0.woff",
+    "static/media/Poppins-Medium.woff": "/task-pro-frontend/static/media/Poppins-Medium.9de653bb3161fcb43443.woff",
+    "static/media/Poppins-SemiBold.woff": "/task-pro-frontend/static/media/Poppins-SemiBold.4b2ae28bc415edfe9fd6.woff",
+    "static/media/404.png": "/task-pro-frontend/static/media/404.7462fad41919f095d8d4.png",
+    "static/media/Poppins-Regular.woff2": "/task-pro-frontend/static/media/Poppins-Regular.037e68504b90f9cba901.woff2",
+    "static/media/Poppins-Medium.woff2": "/task-pro-frontend/static/media/Poppins-Medium.1bb2cc2b927e6590391c.woff2",
+    "static/media/Poppins-SemiBold.woff2": "/task-pro-frontend/static/media/Poppins-SemiBold.e4258fa809f81555ab07.woff2",
+    "static/media/sprite.svg": "/task-pro-frontend/static/media/sprite.3516c849731c6f71f384e8ade55a3d8b.svg",
+    "index.html": "/task-pro-frontend/index.html",
+    "static/media/eye-hide.svg": "/task-pro-frontend/static/media/eye-hide.accfc4141682c117e0a89ff4d886ee4d.svg",
+    "main.66bec7a7.css.map": "/task-pro-frontend/static/css/main.66bec7a7.css.map",
+    "main.98899a28.js.map": "/task-pro-frontend/static/js/main.98899a28.js.map",
+    "544.50f911eb.chunk.js.map": "/task-pro-frontend/static/js/544.50f911eb.chunk.js.map",
+    "786.c8b6ea2b.chunk.js.map": "/task-pro-frontend/static/js/786.c8b6ea2b.chunk.js.map",
+    "630.57b4b419.chunk.js.map": "/task-pro-frontend/static/js/630.57b4b419.chunk.js.map",
+    "95.29851ab0.chunk.js.map": "/task-pro-frontend/static/js/95.29851ab0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.66bec7a7.css",
+    "static/js/main.98899a28.js"
   ]
 }
