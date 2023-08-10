@@ -1,0 +1,82 @@
+body.dark {
+  --nav_bgc: #121212;
+  --nav_main_color: #ffffff;
+  --nav_second_color: rgba(255, 255, 255, 0.5);
+  --nav_icon_bgc: #1f1f1f;
+  --nav_icon: #ffffff;
+  --logo_task: #1f1f1f;
+  --need_bgc: #1f1f1f;
+  --logout_fill: #bedbb0;
+  --logout_fill_active: #9dc888;
+
+  --cal_border: #bedbb0;
+  --cal_background: #1f1f1f;
+  --cal_arrows:#ffffff;
+  --cal_arrows_active: #9dc888;
+  --cal_month: #ffffff;
+  --cal_month_border: #FFFFFF33;
+  --cal_day_name: #FFFFFF80;
+  --cal_days: #FFFFFF;
+  --cal_days_hover: #1F1F1F;
+  --cal_days_out_hover: #16161666;
+  --cal_bg_out_hover: #FFFFFF33;
+  --cal_days_bc_hover: #bedbb0;
+  --cal_days_disabled: #FFFFFF33;
+  --cal_btn_color:#bedbb0;
+
+
+
+  --header_bgc: #161616;
+  --header_theme_text: rgba(255, 255, 255, 0.8);
+  --theme_color: rgba(255, 255, 255, 0.5);
+  --theme_active: #bedbb0;
+  --border_theme: #bedbb0;
+  --border_theme: #ecedfd;
+  --theme_bgc: #151515;
+  --theme_shadow: 0px 4px 16px 0px rgba(17, 17, 17, 0.1);
+  --header_user_text: #ffffff;
+  --user_bgc: #1f1f1f;
+  --user_icon: #151515;
+  --add_photo_bgc: #bedbb0;
+  --plus_color: #161616;
+
+  --board_bgc: #1f1f1f;
+  --board_filter_color: rgba(255, 255, 255, 0.7);
+  --board_task_bgc: #121212;
+  --board_main_color: #ffffff;
+  --board_second_color: rgba(255, 255, 255, 0.5);
+  --icon_active_color: #bedbb0;
+
+  --modal_bgc: #161616;
+  --modal_main_color: #ffffff;
+  --modal_second_color: rgba(255, 255, 255, 0.5);
+  --modal_data_color: #bedbb0;
+  --input_color: #bedbb0;
+  --modal_field: #151515;
+  --close_icon: #ffffff;
+  --close_active: #9dc888;
+
+  --normal_btn: #bedbb0;
+  --active_btn: #9dc888;
+  --text_btn: #161616;
+  --plus_bgc: #161616;
+  --plus_color: #ffffff;
+
+  --add_btn_bgc: #121212;
+  --add_text_color: #ffffff;
+  --add_plus_bgc: #ffffff;
+  --add_plus_color: #121212;
+
+  --create_normal: #bedbb0;
+  --create_active: #9dc888;
+  --create_plus_color: #121212;
+
+  --span_color: #bedbb0;
+
+  --line_color: rgba(255, 255, 255, 0.1);
+
+  --svg-bg-color: #1f1f1f;
+  --svg-user-color: #151515;
+  --chevron-down: rgba(255, 255, 255, 0.80);
+  --save-color: #161616;
+}
